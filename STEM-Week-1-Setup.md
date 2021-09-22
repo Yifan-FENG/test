@@ -30,9 +30,9 @@ Check that you are using the anaconda version of Python by typing the following 
 
 Now we are going to run a Jupyter notebook. This where we will run most of our Python scripts.
 
-There are two ways of doing this
+First we need to get the code for this unit onto our local machines.
 
-### GitHub App
+### GitHub App
 
 All the code for this unit lives in something called a “repository”. The largest
 commercial version of this is [GitHub](https://github.com)
